@@ -225,8 +225,6 @@ Entregas Fin de Semana
 <td><a href='https://github.com/a10pepo/EDEM_MDA2324/tree/main/Alumnos/FS/Stas Korotchenko'>Stas korotchenko</a></td>
 <td>✅</td>
 <td>✅</td>
-<td>❌</td>
-<td>❌</td>
 <td>✅</td>
 <td>✅</td>
 <td>✅</td>
@@ -285,10 +283,17 @@ Entregas Entre Semana
 <td><a href='https://github.com/a10pepo/EDEM_MDA2324/tree/main/Alumnos/ES/CARLOS_BUENROSTRO_VALVERDE'>Carlos_buenrostro_valverde</a></td>
 <td>✅</td>
 <td>❌</td>
+<<<<<<< HEAD
+<td>❌</td>
+<td>❌</td>
+<td>❌</td>
+<td>❌</td>
+=======
 <td>✅</td>
 <td>✅</td>
 <td>✅</td>
 <td>✅</td>
+>>>>>>> f1dc9699ebaf84f2f56d045d9a3d95ad5d5dd5b5
 </tr>
 <tr>
 <td><a href='https://github.com/a10pepo/EDEM_MDA2324/tree/main/Alumnos/ES/Diego_Pitarch'>Diego_pitarch</a></td>
@@ -364,7 +369,12 @@ Entregas Entre Semana
 </tr>
 <tr>
 <td><a href='https://github.com/a10pepo/EDEM_MDA2324/tree/main/Alumnos/ES/Josan_Rodrigo_Cortes'>Josan_rodrigo_cortes</a></td>
+<<<<<<< HEAD
+<td>❌</td>
+<td>❌</td>
+=======
 <td>✅</td>
+>>>>>>> f1dc9699ebaf84f2f56d045d9a3d95ad5d5dd5b5
 <td>✅</td>
 <td>✅</td>
 <td>✅</td>
